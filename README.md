@@ -3,6 +3,7 @@
 - Technologies /Stacks in which i am working are JavaScript, TypeScript, React, Next.js, React Native, Redux, Node.js, Express.js, MongoDB, Tailwind, Bootstrap, HTML, CSS.
 - 🌱 I’m currently working on MERN Stack.
 - 💞️ I’m looking to collaborate on JavaScript/MERN Stack related projects.
+- Linkedin profile link : https://www.linkedin.com/in/muhammad-umaid-saeed 
 - Check my portfolio on : https://my-portfolio-91382.web.app
 - 📫 How to reach me : m.umaid22@gmail.com
 
